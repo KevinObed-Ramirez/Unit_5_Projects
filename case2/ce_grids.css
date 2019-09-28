@@ -64,39 +64,8 @@ div.column80{
 
 
 /* Grid Spacing Styles */
-/*div.container{
-   box-sizing: border-box;
-   -webkit-box-sizing: border-box;
-   -moz-box-sizing: border-box;
-}
-div.row{
-   box-sizing: border-box;
-   -webkit-box-sizing: border-box;
-   -moz-box-sizing: border-box;
-}
-.cell div[class^="column"]{
-   box-sizing: border-box;
-   -webkit-box-sizing: border-box;
-   -moz-box-sizing: border-box;
-}
-div.cell a{
-   box-sizing: border-box;
-   -webkit-box-sizing: border-box;
-   -moz-box-sizing: border-box;
-}
-div.cell{
-   box-sizing: border-box;
-   -webkit-box-sizing: border-box;
-   -moz-box-sizing: border-box;
-}*/
 div#container, div.row, div[class^="column"], div.cell a {
    box-sizing: border-box;
    -webkit-box-sizing: border-box;
    -moz-box-sizing: border-box;
 }
-
-/*.cell div[class^="column"] {
-   box-sizing: border-box;
-   -webkit-box-sizing: border-box;
-   -moz-box-sizing: border-box;
-}*/
